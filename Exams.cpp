@@ -42,7 +42,5 @@ int main() {
 
     printf("Your average exam score is %.2f\n", avg);
 
-    std::string formatted = std::format("Your average exam score is {:.2f}", avg);
-    std::cout<<formatted;
     return 0;
 }
