@@ -15,9 +15,9 @@ Aliyah Caulder
 int main() {
     // Variable declarations
     std::string name;
-    int score1;
-    int score2;
-    int score3;
+    float score1;
+    float score2;
+    float score3;
     float avg;
 
     // Prompt for user inputs
