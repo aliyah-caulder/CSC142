@@ -1,7 +1,7 @@
 /*
 
 -LineNumbers.cpp
--
+-Reads each line from a selected file and rewrites it to a new file with added line numbers.
 -Aliyah Caulder
 -2/9/2025
 
