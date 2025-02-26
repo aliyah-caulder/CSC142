@@ -12,6 +12,8 @@ class Book
         double price;
     
     public:
+        //Default Constructor
+        inline Book(){}
         //Constructor
         inline Book(std::string cn, std::string au, std::string ti, int ed, std::string pc, double pr) {
             codeNum = cn;
